@@ -1,2 +1,4 @@
 import socket
-socket.gethostbyname(socket.gethostname())
+def ip():
+  ip = socket.gethostbyname(socket.gethostname())
+  return ip
