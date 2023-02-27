@@ -4,7 +4,7 @@ port = 465 # ssl
 smtp_server = "smtp.gmail.com"
 sender_email = "abc@gmail.com" #Enter sender Email address
 receiver_email = "xyz@pqr.com" #Enter receiver Email address
-password = "purnydoaabflobsu"
+password = "pusdnsoaagfgobsu" #Enter Password from google app passwords
 message = """Please ignore this, message from pyhton code"""
 
 context = ssl.create_default_context()
